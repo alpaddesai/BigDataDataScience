@@ -7,6 +7,8 @@ The project provides an introduction to machine learning and big data. All image
 For details please go to:https://github.com/alpaddesai/BigDataDataScienceMachineLearning/releases
 
 
+## Pattern Recognition
+![image](Pattern Recognition.png)
 
 ## Classification
 ![image](Examples.png)
