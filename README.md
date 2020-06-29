@@ -13,6 +13,9 @@ For details please go to:https://github.com/alpaddesai/BigDataDataScienceMachine
 ## Classification
 ![image](Examples.png)
 
+## Numerical Optimization
+![image](NumericalOptimizations.jpg)
+
 ## Machine Learning 
 ![image](CertificateMachineLearning.jpg)
 
