@@ -1,0 +1,61 @@
+﻿<Window x:Class="BigDataDataScienceMachineLearning.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BigDataDataScienceMachineLearning"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="816" Width="1102" MaxWidth="1102" MaxHeight="816">
+    <Grid Margin="0,6,-8,1">
+        <TabControl Margin="0,0,19,10">
+            <TabControl.OpacityMask>
+                <ImageBrush ImageSource="/image12.jpg"/>
+            </TabControl.OpacityMask>
+            <TabItem Header="Pattern Recognition">
+                <Grid Background="#FFE5E5E5" Height="730" Margin="10,0,15,0" RenderTransformOrigin="0.5,0.5">
+                    <Grid.OpacityMask>
+                        <ImageBrush ImageSource="/image12.jpg"/>
+                    </Grid.OpacityMask>
+                    <Grid.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-0.438"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Grid.RenderTransform>
+                    <TextBox HorizontalAlignment="Left" Margin="189,19,0,0" Text="Pattern recognition is an information reduction process. It differs from hypothesis testing and image processing. Regression, interpolation and density estimation are three closely interrelated fields that are utilized in pattern recognition. In interpolation Density estimation isn the problem of estimating the density that a member of a certain category will be found to have specific features.. The pattern recognition system is divided  INPUT-&gt;SEGMENTATION-&gt;FEATURE EXTRACTION-&gt; CLASSIFICATION-&gt;POST PROCESSING -&gt; DECISION. Grouping and segmentation is one of the most difficult problems in pattern recognition. The boundary between segmentation and feature extraction can be arbitrary , an powerful classifier would not require a feature extractor and vice versa.   Classification uses the feature vector provided by the feature extractor to assign the object to a category. Domain independent theory of classification. The post processor uses the output of the classifier to recommend an action. The design cycle of the pattern recognition system consists of data collection, feature choice, model choice, training and evaluation and computational complexity. Learning and adaptation includes supervised learning, unsupervised learning and reinforcement learning.  The Bayesian Decision formula is expressed in posterior, likelihood, prior and evidence variables. Key concepts include two category classification, minimum error rate classification, minimax criterion, multicategory case . The univariate or multivariate representation of the gaussian distribution provides a visual representation of the data. Once a confusion matrix is generated, the ROC curve can be created by plotting the true positive rate against the false positive rate at various threshold settings. Hence to minimize the overall risk , the action that minimizes the conditional risk should always be selected. Bayes formula allows us to make this selection. Hidden Markov models provides a solution to the problem of making a sequence of decisions.   If the distribution is unknown , then the methods to estimate the distribution include Parzen Windows and  probabilistic neural networks (PNN). These densities are then used for classification. k-nearest neighbor estimation, estimation of A posteriori probabilities, nearest neigbor rule, several forms of relaxation networks the category for classification is found directly without estimating the densities.   Amongst supervised learning models, the SVM can perform a linear and a non-linear classification.        In situations where the linear discriminants (functions) are not suffice to meet the  minimum error we need to develop an algorithm to find the non linear functions.  The multilayer neural networks or multilayer perceptrons utilize the process of learning the nonlinear parameters at the same time as learning the linear parameters.  Hence providing an optimal solution.    Network learning starts with an untrained network , presents a training pattern to the input layer, passes the signals through the net and hence finds the output at the output layer. The error or criterion function is the difference between the output and target values.  The error function is minimized when the network outputs match the desired outputs, hence the weights are adjusted to reduce the measure of error, so it's just a feedback network.    Stochastic methods for finding parameters include the simulated annealing algorithm, genetic algorithms. Non metric methods include decision trees.  Unsupervised learning  and clustering  algorithms include k means clustering, unsupervised bayes classifier. The criterion for the clustering boundaries can be the sum of squared error criterion, minimum variance criteria, scatter criteria, trace criteria , determinant criterion.  Component analysis is an unsupervised approach to finding the right features from the data.   " TextWrapping="Wrap" VerticalAlignment="Top" Width="851" TextChanged="TextBox_TextChanged" Height="520">
+                        <TextBox.OpacityMask>
+                            <ImageBrush ImageSource="/image12.jpg"/>
+                        </TextBox.OpacityMask>
+                    </TextBox>
+                    <Image Margin="14,18,880,396" Stretch="Fill" Source="image12.jpg" MaxWidth="155" MaxHeight="270"/>
+                    <Image Margin="5,338,876,91" Stretch="Fill" Source="image16.jpg" MaxWidth="148" MaxHeight="263"/>
+                    <Label Content="Pattern Recognition Process" HorizontalAlignment="Left" Margin="4,2,0,0" VerticalAlignment="Top"/>
+                    <Label Content="Design Cycle" HorizontalAlignment="Left" Margin="57,320,0,0" VerticalAlignment="Top"/>
+                    <TextBox HorizontalAlignment="Left" Margin="512,546,0,0" Text="Reference : Pattern recognition Richard O. Duda" TextWrapping="Wrap" VerticalAlignment="Top" Width="266" Height="21"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Examples" Height="20" VerticalAlignment="Top">
+                <Grid Background="#FFE5E5E5" Height="722" Margin="0,0,-6,0">
+                    <TextBox HorizontalAlignment="Left" Margin="263,693,0,0" Text="Reference : Code from Machine Learning A-Z Hands on python &amp; R in Data Science" TextWrapping="Wrap" VerticalAlignment="Top" Width="453" Height="21" TextChanged="TextBox_TextChanged_1"/>
+                    <Image Margin="6,6,845,511" Stretch="Fill" Source="/Cluster of Customers.png" MaxWidth="269" MaxHeight="186"/>
+                    <Label Content="Hierarchical clustering" HorizontalAlignment="Left" Height="27" Margin="3,1,0,0" VerticalAlignment="Top" Width="134"/>
+                    <Image Margin="254,1,596,521" Stretch="Fill" Source="/Elbow.png" MaxWidth="248" MaxHeight="196"/>
+                    <Label Content="Find optimal # of clusters" HorizontalAlignment="Left" Height="27" Margin="307,60,0,0" VerticalAlignment="Top" Width="149"/>
+                    <Image Margin="504,6,314,520" Stretch="Fill" Source="/HierCluster_combined.png"/>
+                    <Image Margin="5,217,841,302" Stretch="Fill" Source="/kernel logistic regression.png"/>
+                    <Image Margin="797,431,6,28" Stretch="Fill" Source="/LogisticRegression.png"/>
+                    <Label Content="Hierarchical clustering" HorizontalAlignment="Left" Height="27" Margin="510,3,0,0" VerticalAlignment="Top" Width="134"/>
+                    <Image Margin="262,211,579,301" Stretch="Fill" Source="/Kernel.png"/>
+                    <Image Margin="517,215,303,301" Stretch="Fill" Source="/KNeighbors.png"/>
+                    <Image Margin="800,215,8,302" Stretch="Fill" Source="/LDA.png"/>
+                    <Image Margin="2,433,839,16" Stretch="Fill" Source="/NaiveBayes.png"/>
+                    <Image Margin="264,434,582,33" Stretch="Fill" Source="/PCA.png"/>
+                    <Image Margin="514,435,305,31" Stretch="Fill" Source="/SVC.png"/>
+                    <Image Margin="789,0,8,516" Stretch="Fill" Source="/HierClusters.png"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Cluster of Customers.png" />
+    <None Remove="Elbow.png" />
+    <None Remove="HierClusters.png" />
+    <None Remove="HierCluster_combined.png" />
+    <None Remove="image12.jpg" />
+    <None Remove="image16.jpg" />
+    <None Remove="kernel logistic regression.png" />
+    <None Remove="Kernel.png" />
+    <None Remove="KNeighbors.png" />
+    <None Remove="LDA.png" />
+    <None Remove="LogisticRegression.png" />
+    <None Remove="NaiveBayes.png" />
+    <None Remove="PCA.png" />
+    <None Remove="SVC.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Cluster of Customers.png" />
+    <Resource Include="Elbow.png" />
+    <Resource Include="HierClusters.png" />
+    <Resource Include="HierCluster_combined.png" />
+    <Resource Include="image12.jpg" />
+    <Resource Include="image16.jpg" />
+    <Resource Include="kernel logistic regression.png" />
+    <Resource Include="Kernel.png" />
+    <Resource Include="KNeighbors.png" />
+    <Resource Include="LDA.png" />
+    <Resource Include="LogisticRegression.png" />
+    <Resource Include="NaiveBayes.png" />
+    <Resource Include="PCA.png" />
+    <Resource Include="SVC.png" />
+  </ItemGroup>
+
+</Project>
