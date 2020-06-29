@@ -8,7 +8,7 @@ For details please go to:https://github.com/alpaddesai/BigDataDataScienceMachine
 
 
 ## Pattern Recognition
-![image](Pattern Recognition.png)
+![image](PatternRecognition.png)
 
 ## Classification
 ![image](Examples.png)
