@@ -8,5 +8,8 @@ For details please go to:https://github.com/alpaddesai/BigDataDataScienceMachine
 
 
 
+## Machine Learning 
+![image](CertificateMachineLearning.jpg)
+
 ## Python Certificate 
 ![image](PythonCertificate.jpg)
