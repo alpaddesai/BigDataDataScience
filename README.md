@@ -8,6 +8,9 @@ For details please go to:https://github.com/alpaddesai/BigDataDataScienceMachine
 
 
 
+## Pattern Recognition 
+![image](Examples.png)
+
 ## Machine Learning 
 ![image](CertificateMachineLearning.jpg)
 
