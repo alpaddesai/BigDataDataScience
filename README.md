@@ -16,6 +16,9 @@ For details please go to:https://github.com/alpaddesai/BigDataDataScienceMachine
 ## Numerical Optimization
 ![image](NumericalOptimizations.jpg)
 
+## PDCLA
+![image](PDCLDAApplications.jpg)
+
 ## Machine Learning 
 ![image](CertificateMachineLearning.jpg)
 
