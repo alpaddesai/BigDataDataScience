@@ -20,6 +20,7 @@ For details please go to:https://github.com/alpaddesai/BigDataDataScienceMachine
 ![image](MultiVariantAnalysisML.png)
 
 ## PDCLA
+### MS excel
 ![image](PDCLDAApplications.jpg)
 
 ## Machine Learning 
