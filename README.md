@@ -14,13 +14,14 @@ For details please go to:https://github.com/alpaddesai/BigDataDataScienceMachine
 ![image](Examples.png)
 
 ## Numerical Optimization
+### MS Excel
 ![image](NumericalOptimizations.jpg)
 
 ## MultiVariant Analysis
 ![image](MultiVariantAnalysisML.png)
 
 ## PDCLA
-### MS excel
+### Minitab
 ![image](PDCLDAApplications.jpg)
 
 ## Machine Learning 
