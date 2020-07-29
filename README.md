@@ -27,6 +27,7 @@ For details please go to:https://github.com/alpaddesai/BigDataDataScienceMachine
 
 ## Python Certificate 
 ![image](PythonCertificate.jpg)
+![image](PythonImage.png)
 
 ## Applications Probability
 ![image](ProbabilityApplication.jpg)
