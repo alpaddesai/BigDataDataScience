@@ -33,7 +33,6 @@ For details please go to:https://github.com/alpaddesai/BigDataDataScienceMachine
 ![image](RStudioImage.png)
 
 ## Machine Learning with Matlab
-![image](Matlab.png)
 
 ## Applications Probability
 ![image](ProbabilityApplication.jpg)
