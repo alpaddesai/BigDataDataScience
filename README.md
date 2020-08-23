@@ -11,7 +11,7 @@ For details please go to:https://github.com/alpaddesai/BigDataDataScienceMachine
 ![image](PatternRecognition.png)
 
 ## Classification
-#### Images from the customized code that is referenced from the example code in the machine learning certificate 
+#### Images from customized code that is referenced from the example code which is avaialable in the machine learning certificate 
 ![image](Examples.png)
 
 ## Numerical Optimization
