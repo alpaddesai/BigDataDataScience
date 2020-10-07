@@ -38,3 +38,6 @@ For details please go to:https://github.com/alpaddesai/BigDataDataScienceMachine
 
 ## Applications Probability
 ![image](ProbabilityApplication.jpg)
+
+## Matlab
+![image](Matlab.jpg)
