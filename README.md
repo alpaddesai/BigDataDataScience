@@ -36,11 +36,12 @@ For details please go to:https://github.com/alpaddesai/BigDataDataScienceMachine
 ## Machine Learning with Matlab
 ![image](MatlabMachineLearning.png)
 
-## Reference of Image: Images from the code provided in the Matlab certificate
-![image](image.jpg)
 
 ## Applications Probability
 ![image](ProbabilityApplication.jpg)
 
 ## Matlab
 ![image](Matlab.jpg)
+
+## Reference of Image: Images from the code provided in the Matlab certificate
+![image](image.jpg)
