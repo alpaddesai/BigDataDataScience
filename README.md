@@ -46,5 +46,5 @@ For details please go to:https://github.com/alpaddesai/BigDataDataScienceMachine
 ## Reference of Image: Images from the code provided in the Matlab certificate
 ![image](image.jpg)
 
-Additional reference : https://github.com/alpaddesai/NewProductDevelopmentProcesses and https://github.com/alpaddesai/ProbabilityStochasticProcesses
+Additional reference : https://github.com/alpaddesai/EngineeringProjectManagement and https://github.com/alpaddesai/ProbabilityStochasticProcesses
 
