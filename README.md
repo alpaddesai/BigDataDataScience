@@ -2,10 +2,8 @@
 
 Big IoT 
 
-
 The project provides an introduction to machine learning and big data. All images are either custom by Alpa D Desai or a reference name is included. Most of the images are custom.
 For details please go to:https://github.com/alpaddesai/BigDataDataScienceMachineLearning/releases
-
 
 ## Pattern Recognition
 ![image](PatternRecognition.png)
@@ -36,7 +34,6 @@ For details please go to:https://github.com/alpaddesai/BigDataDataScienceMachine
 ## Machine Learning with Matlab
 ![image](MatlabMachineLearning.png)
 
-
 ## Applications Probability
 ![image](ProbabilityApplication.jpg)
 
@@ -45,6 +42,8 @@ For details please go to:https://github.com/alpaddesai/BigDataDataScienceMachine
 
 ## Reference of Image: Images from the code provided in the Matlab certificate
 ![image](image.jpg)
+
+![image](USCopyrightCertificate.png)
 
 Additional reference : https://github.com/alpaddesai/EngineeringProjectManagement and https://github.com/alpaddesai/ProbabilityStochasticProcesses
 
