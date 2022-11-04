@@ -45,5 +45,5 @@ For details please go to:https://github.com/alpaddesai/BigDataDataScienceMachine
 
 ![image](USCopyrightCertificate.png)
 
-Additional reference : https://github.com/alpaddesai/EngineeringProjectManagement and https://github.com/alpaddesai/ProbabilityStochasticProcesses
+Additional reference : https://github.com/alpaddesai/EngineeringProjectManagement, https://github.com/alpaddesai/ProbabilityStatistics and https://github.com/alpaddesai/ProbabilityStochasticProcesses
 
