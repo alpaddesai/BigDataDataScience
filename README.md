@@ -43,7 +43,11 @@ For details please go to:https://github.com/alpaddesai/BigDataDataScienceMachine
 ## Reference of Image: Images from the code provided in the Matlab certificate
 ![image](image.jpg)
 
+## Certificate
 ![image](USCopyrightCertificate.png)
+
+## Ethics
+![image](Ethics.jpg)
 
 Additional reference : https://github.com/alpaddesai/EngineeringProjectManagement, https://github.com/alpaddesai/ProbabilityStatistics and https://github.com/alpaddesai/ProbabilityStochasticProcesses
 
