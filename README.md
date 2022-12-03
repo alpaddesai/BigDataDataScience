@@ -52,5 +52,5 @@ For details please go to:https://github.com/alpaddesai/BigDataDataScienceMachine
 ## Ethics
 ![image](Ethics.jpg)
 
-Additional reference : https://github.com/alpaddesai/EngineeringProjectManagement, https://github.com/alpaddesai/DataMining, https://github.com/alpaddesai/ProbabilityStatistics and https://github.com/alpaddesai/ProbabilityStochasticProcesses
+Additional reference : https://github.com/alpaddesai/DataMining, https://github.com/alpaddesai/ProbabilityStatistics and https://github.com/alpaddesai/ProbabilityStochasticProcesses
 
