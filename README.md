@@ -40,9 +40,6 @@ For details please go to:https://github.com/alpaddesai/BigDataDataScienceMachine
 ## Matlab
 ![image](Matlab.jpg)
 
-## Exam
-![image](CFAExam.jpg)
-
 ## Reference of Image: Images from the code provided in the Matlab certificate
 ![image](image.jpg)
 
