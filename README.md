@@ -49,4 +49,4 @@ For details please go to:https://github.com/alpaddesai/BigDataDataScienceMachine
 ## Ethics
 ![image](Ethics.jpg)
 
-Additional reference : https://github.com/alpaddesai/DataMining and https://github.com/alpaddesai/SoftwareEngineering
+Additional reference : https://github.com/alpaddesai/SoftwareEngineering
