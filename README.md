@@ -26,7 +26,6 @@ The project provides an introduction to machine learning and big data. All image
 ![image](CertificateMachineLearning.jpg)
 
 ## Python Certificate 
-![image](PythonCertificate.jpg)
 ![image](PythonImage.png)
 ![image](RStudioImage.png)
 
